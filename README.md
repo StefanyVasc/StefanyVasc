@@ -32,13 +32,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://twitter.com/stefany_vasc" target="_blank" title="My Twitter"><img src="https://github.com/StefanyVasc/StefanyVasc/blob/master/icons/twitter.png" alt"logo Twitter"></a>
-
-[![twitter](/icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
-[![dev.to](/icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![twitter](https://github.com/StefanyVasc/StefanyVasc/blob/master/icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![dev.to](https://github.com/StefanyVasc/StefanyVasc/blob/master/icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
 [![linkedin](https://github.com/StefanyVasc/StefanyVasc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/stefanyvasconcelos/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![medium](/icons/medium.png)](https://medium.com/@stefany.vasc.sa)&nbsp;&nbsp;&nbsp;&nbsp;
-[![steam](./icons/steam.png)](https://steamcommunity.com/id/SteVasc/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![medium](https://github.com/StefanyVasc/StefanyVasc/blob/master/icons/medium.png)](https://medium.com/@stefany.vasc.sa)&nbsp;&nbsp;&nbsp;&nbsp;
+[![steam](https://github.com/StefanyVasc/StefanyVasc/blob/master/icons/steam.png)](https://steamcommunity.com/id/SteVasc/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
