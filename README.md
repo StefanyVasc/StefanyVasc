@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 <br/>
 
 <br/>
-icons/twitter.png
 
-[![twitter](icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
-[![dev.to](icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
-[![linkedin](icons/linkedin.png)](https://www.linkedin.com/in/stefanyvasconcelos/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![medium](icons/medium.png)](https://medium.com/@stefany.vasc.sa)&nbsp;&nbsp;&nbsp;&nbsp;
-[![steam](icons/steam.png)](https://steamcommunity.com/id/SteVasc/)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[![twitter](/icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![dev.to](/icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](/icons/linkedin.png)](https://www.linkedin.com/in/stefanyvasconcelos/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![medium](/icons/medium.png)](https://medium.com/@stefany.vasc.sa)&nbsp;&nbsp;&nbsp;&nbsp;
+[![steam](./icons/steam.png)](https://steamcommunity.com/id/SteVasc/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
