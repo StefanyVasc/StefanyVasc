@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-
+<a href="https://twitter.com/stefany_vasc"><img src="/icons/twitter.png" alt="icone twitter"/></a>
 [![twitter](/icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
 [![dev.to](/icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
 [![linkedin](/icons/linkedin.png)](https://www.linkedin.com/in/stefanyvasconcelos/)&nbsp;&nbsp;&nbsp;&nbsp;
