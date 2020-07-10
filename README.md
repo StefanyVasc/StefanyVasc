@@ -32,10 +32,13 @@ Here are some ideas to get you started:
 
 <br/>
 
-#### Other Accounts 📫
+<a href="https://twitter.com/stefany_vasc" target="_blank" title="My Twitter"><img src="https://github.com/StefanyVasc/StefanyVasc/blob/master/icons/twitter.png" alt"logo Twitter"></a>
 
-| [<img src="https://raw.githubusercontent.com/StefanyVasc/StefanyVasc/masterassetsg/dev.png" alt="dev logo" width="24">](https://dev.to/stefanyvasc) | [<img src="https://raw.githubusercontent.com/StefanyVasc/StefanyVasc/master/assets/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/stefanyvasconcelos/) | [<img src="https://raw.githubusercontent.com/StefanyVasc/StefanyVasc/master/assets/medium.png" alt="medium logo" width="24">](https://medium.com/@stefany.vasc.sa) | [<img src="https://raw.githubusercontent.com/StefanyVasc/StefanyVasc/master/assets/twitter.jpg" alt="twitter logo" width="24">](https://twitter.com/stefany_vasc) | [<img src="https://raw.githubusercontent.com/StefanyVasc/StefanyVasc/master/assets/steam.svg" alt="stack logo" width="24">](https://steamcommunity.com/id/SteVasc/) 
+[![twitter](/icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![dev.to](/icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](https://github.com/StefanyVasc/StefanyVasc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/stefanyvasconcelos/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![medium](/icons/medium.png)](https://medium.com/@stefany.vasc.sa)&nbsp;&nbsp;&nbsp;&nbsp;
+[![steam](./icons/steam.png)](https://steamcommunity.com/id/SteVasc/)&nbsp;&nbsp;&nbsp;&nbsp;
 
-|---|---|---|---|---|
 
 
