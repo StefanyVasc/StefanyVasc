@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Stefany 👋
 
 <!--
 **StefanyVasc/StefanyVasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📌 I live on Recife, Brazil and work at @CESARBR.
+
+- 🔭 I’m currently working on:
+  - FrontEnd (Vanilla JS)
+  - Educational projects
+  
+- 🌱 I am currently learning
+  -  ReactJS 
+     -  Styled Components
+  -  And in the future I will start learning React Native and NodeJS
+ 
+- 📚   Reading more about SASS and Oulander Saga. 
+<br/>
+
+<br/>
+
+
+[![twitter](src/../icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![dev.to](src/../icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](src/../icons/linkedin.png)](https://www.linkedin.com/in/stefanyvasconcelos/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![medium](src/../icons/medium.png)](https://medium.com/@stefany.vasc.sa)&nbsp;&nbsp;&nbsp;&nbsp;
+[![steam](src/../icons/steam.png)](https://steamcommunity.com/id/SteVasc/)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
