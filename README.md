@@ -24,19 +24,20 @@ Here are some ideas to get you started:
 - 🌱 I am currently learning
   -  ReactJS 
      -  Styled Components
-  -  And in the future I will start learning React Native and NodeJS
+  -  React Native
+  -  NodeJS
  
 - 📚   Reading more about SASS and Oulander Saga. 
 <br/>
 
 <br/>
+icons/twitter.png
 
-
-[![twitter](src/../icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
-[![dev.to](src/../icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
-[![linkedin](src/../icons/linkedin.png)](https://www.linkedin.com/in/stefanyvasconcelos/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![medium](src/../icons/medium.png)](https://medium.com/@stefany.vasc.sa)&nbsp;&nbsp;&nbsp;&nbsp;
-[![steam](src/../icons/steam.png)](https://steamcommunity.com/id/SteVasc/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![twitter](icons/twitter.png)](https://twitter.com/stefany_vasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![dev.to](icons/dev.png)](https://dev.to/stefanyvasc)&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](icons/linkedin.png)](https://www.linkedin.com/in/stefanyvasconcelos/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![medium](icons/medium.png)](https://medium.com/@stefany.vasc.sa)&nbsp;&nbsp;&nbsp;&nbsp;
+[![steam](icons/steam.png)](https://steamcommunity.com/id/SteVasc/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
