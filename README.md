@@ -4,9 +4,9 @@
   I live on Recife, Brazil and work at <b>CESAR</b> 
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc"></a>
-</p>
+</p> -->
 
 
 <p align='center'>
