@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Stefany  👩‍💻 </h1>
 
 <p align='center'>
-  I live on Recife, Brazil and work at <b>CESAR</b> 
+  I live in Recife, Brazil and work at <b>CESAR</b> 
 </p>
 
 <p align='center'>
@@ -19,7 +19,7 @@
 
 <hr>
 
-<h4> 🔭 I’m currently working with ...</h4>
+<h4>🔭  I’m currently working with ...</h4>
 
 <h5>UI Developer</h5>
 <p >
@@ -29,14 +29,14 @@
 
 <hr>
 
-<h4>🌱 I'm currently learning...</h4>
+<h4>🌱  I'm currently learning...</h4>
 <p >
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <p align='right'>
-<h4>💬 Sometimes I like to write things here...</h4>
+<h4>💬  Sometimes I like to write things here...</h4>
   <a href="https://dev.to/stefanyvasc"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@stefany.vasc.sa"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://stefanysa.tech/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
