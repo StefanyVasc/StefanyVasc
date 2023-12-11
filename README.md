@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Stefany  👩‍💻 </h1>
 
 <p align='center'>
-  I live in Recife, Brazil and work at <b>CESAR</b> 
+  I live in Recife, Brazil
 </p>
 
 <p align='center'>
