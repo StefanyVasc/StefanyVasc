@@ -7,8 +7,8 @@ class Stefany {
 
   static readonly techStack = {
     area: 'frontend',
-    languages: ['TypeScript', 'JavaScript'],
-    tools: ['React', 'Zustand', 'SWR', 'Vitest'],
+    languages: ['TypeScript', 'JavaScript', 'python'],
+    tools: ['Everything in React ecosystem', 'Angular'],
   }
 
   static readonly education = {
@@ -17,6 +17,10 @@ class Stefany {
       institution: 'UFRPE',
       finishYear: 2020,
     },
+    posGrad: {
+      status: 'searching right now',
+      startYear: 2026,
+    }
   }
 
   static readonly work = {
@@ -30,29 +34,18 @@ class Stefany {
     previous: {
       company: 'FCxLabs',
       role: 'Systems Analyst',
+      seniority: 'senior',
       focus: 'frontend',
     },
   }
 
-  static nowBuilding() {
-    return {
-      portfolio: 'https://github.com/StefanyVasc/portfolio',
-    }
-  }
 
-  static learningFocus() {
-    return [
-      'react rendering internals',
-      'performance optimization',
-      'system design',
-    ]
-  }
-
-  static contact() {
+  static getMyContact() {
     return {
       website: 'https://www.stefany-sa.com.br',
       linkedin: 'https://www.linkedin.com/in/stefanyvasconcelos',
       github: 'https://github.com/StefanyVasc',
+      unsplash: 'https://unsplash.com/pt-br/@stevasc'
     }
   }
 }
