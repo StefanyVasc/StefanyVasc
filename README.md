@@ -1,23 +1,24 @@
 ```typescript
 const stefany = SoftwareEngineer.about({
   name: 'Stefany Vasconcelos',
-  level: 'Staff+',
+  level: 'Staff Software Engineer',
   company: 'iFood',
-  location: 'Recife, Brazil',
-  experience: '10+ years',
+  basedIn: 'Recife, Brazil',
+  experience: '10+ years building products at scale',
 
   expertise: [
     'Frontend Architecture',
-    'React',
+    'React Ecosystem',
     'TypeScript',
     'Design Systems',
+    'Performance',
   ],
 
   links: {
-    github: 'github.com/StefanyVasc',
-    linkedin: 'linkedin.com/in/stefanyvasconcelos',
+    github: '@StefanyVasc',
+    linkedin: '/in/stefanyvasconcelos',
     website: 'stefany-sa.com.br',
-    unsplash: 'unsplash.com/@stevasc',
+    unsplash: '@stevasc',
   },
 })
 ```
