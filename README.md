@@ -1,17 +1,19 @@
 ```typescript
-const stefany = SoftwareEngineer.about({
+const stefany = SoftwareEngineer.profile({
   name: 'Stefany Vasconcelos',
-  level: 'Staff Software Engineer',
-  company: 'iFood',
+  role: 'Staff Software Engineer',
+  currentlyAt: 'iFood 🇧🇷',
   basedIn: 'Recife, Brazil',
+  
   experience: '10+ years building products at scale',
 
-  expertise: [
+  specializesIn: [
+    'Technical Leadership',
     'Frontend Architecture',
-    'React Ecosystem',
-    'TypeScript',
+    'Developer Experience',
     'Design Systems',
     'Performance',
+    'React Ecosystem',
   ],
 
   links: {
@@ -21,4 +23,7 @@ const stefany = SoftwareEngineer.about({
     unsplash: '@stevasc',
   },
 })
+
+stefany.greet()
+// "Thanks for stopping by, feel free to connect 👋"
 ```
